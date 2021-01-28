@@ -1,0 +1,19 @@
+.btn-yours {
+  font-family: 'Karla', sans-serif;
+  color: white;
+  background: rgb(179, 205, 224);
+  border: 1px solid white;
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-weight: bolder;
+  opacity: 0.97;
+  transition: background 0.4s ease;
+}
+
+.btn-yours:hover {
+  opacity: 1;
+  background:  rgb(479, 405, 450);
+  text-decoration: none;
+  color: black;
+}
+
